@@ -12,7 +12,7 @@ Projeto profissional em Python para organizar automaticamente arquivos em uma pa
 
 ## 🛠️ Tecnologias utilizadas
 
-- Python 3.x
+- Python 3.x  
 - Bibliotecas nativas: os, shutil, sys, datetime
 
 ## 📂 Como usar
