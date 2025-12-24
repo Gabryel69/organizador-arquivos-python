@@ -1,27 +1,22 @@
-# ?? Organizador de Arquivos em Python
+﻿# 📁 Organizador de Arquivos em Python
 
-Projeto desenvolvido em Python para organizar automaticamente arquivos de uma pasta, separando por tipo (imagens, vídeos, documentos, etc).
+Projeto profissional em Python para organizar automaticamente arquivos em uma pasta, separando-os por tipo (imagens, vídeos, documentos, compactados) e mantendo um log detalhado.
 
-## ?? Funcionalidades
+## 🚀 Funcionalidades
 
 - Organiza arquivos automaticamente por extensão
 - Cria pastas caso não existam
 - Evita sobrescrever arquivos
-- Código simples e fácil de entender
-- Ideal para automatizar tarefas repetitivas
+- Registra todas as movimentações em log.txt com data e hora
+- Suporta escolha da pasta diretamente pelo terminal
 
-## ??? Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 - Python 3.x
-- Biblioteca os
-- Biblioteca shutil
+- Bibliotecas nativas: os, shutil, sys, datetime
 
-## ?? Como usar
+## 📂 Como usar
 
 1. Clone o repositório:
 ```bash
-<<<<<<< HEAD
-git clone https://github.com/Gabryel69/organizador de arquivos.git
-=======
-git clone https://github.com/Gabryel69/organizador_arquivos_python.git
->>>>>>> 08405da51f7d78cb2ef6e0b7fbc5047717a7c9a3
+git clone https://github.com/Gabryel69/organizador-arquivos-python.git
