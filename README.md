@@ -1,4 +1,4 @@
-﻿# 📁 Organizador de Arquivos em Python
+# 📁 Organizador de Arquivos em Python
 
 Projeto profissional em Python para organizar automaticamente arquivos em uma pasta, separando-os por tipo (imagens, vídeos, documentos, compactados) e mantendo um log detalhado.
 
