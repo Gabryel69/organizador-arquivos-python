@@ -1,13 +1,13 @@
 # ?? Organizador de Arquivos em Python
 
-Projeto desenvolvido em Python para organizar automaticamente arquivos de uma pasta, separando por tipo (imagens, vÌdeos, documentos, etc).
+Projeto desenvolvido em Python para organizar automaticamente arquivos de uma pasta, separando por tipo (imagens, v√≠deos, documentos, etc).
 
 ## ?? Funcionalidades
 
-- Organiza arquivos automaticamente por extens„o
-- Cria pastas caso n„o existam
+- Organiza arquivos automaticamente por extens√£o
+- Cria pastas caso n√£o existam
 - Evita sobrescrever arquivos
-- CÛdigo simples e f·cil de entender
+- C√≥digo simples e f√°cil de entender
 - Ideal para automatizar tarefas repetitivas
 
 ## ??? Tecnologias utilizadas
@@ -18,6 +18,10 @@ Projeto desenvolvido em Python para organizar automaticamente arquivos de uma pa
 
 ## ?? Como usar
 
-1. Clone o repositÛrio:
+1. Clone o reposit√≥rio:
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/Gabryel69/organizador de arquivos.git
+=======
+git clone https://github.com/Gabryel69/organizador_arquivos_python.git
+>>>>>>> 08405da51f7d78cb2ef6e0b7fbc5047717a7c9a3
